@@ -1,3 +1,3 @@
-for i in range(5)
-break
+for i in range(5):
+    break
 print(i)
