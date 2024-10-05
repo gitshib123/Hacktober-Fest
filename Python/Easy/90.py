@@ -1,8 +1,8 @@
-try
+try:
     result = 10 / 0
-except ZeroDivisionEror
+except ZeroDivisionError:
     print('Division by zero')
 else:
     print('No error')
-finally
+finally:
     print('Done')
