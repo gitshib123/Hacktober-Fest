@@ -7,7 +7,7 @@ class Main {
         }
         return fibonacci(n - 1) + fibonacci(n - 2);
     }
-
+ 
     public static void main(String[] args) {
         int n = 10;  // Test with the 10th Fibonacci number
         System.out.println("Fibonacci number " + n + ": " + fibonacci(n));
