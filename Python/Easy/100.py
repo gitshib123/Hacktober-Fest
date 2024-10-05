@@ -6,3 +6,4 @@ class Student:
     return f'{self.name} ({self.grade})'
 student = Student('Alice', 90)
 print(student.__str__())
+  
