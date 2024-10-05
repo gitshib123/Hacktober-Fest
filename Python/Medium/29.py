@@ -3,3 +3,4 @@ def infinite_recursion(n):
 
 result = infinite_recursion(0)
 print(result)
+  
