@@ -1,1 +1,2 @@
-r = range(3, 10, 0)
+r = range(3, 10, 1)
+print(r)
