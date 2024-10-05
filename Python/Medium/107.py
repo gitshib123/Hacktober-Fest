@@ -4,9 +4,9 @@ def check_numbers(numbers):
             print(f"{num} is even")
             return num * 2
         else:
-            return num * 3
             print(f"{num} is odd")
-
+            return num * 3
+            
 result = check_numbers([1, 2, 3, 4])
 print(result)
 

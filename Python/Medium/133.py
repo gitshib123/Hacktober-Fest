@@ -8,8 +8,7 @@ class Circle(Shape):
   def add(self, a, b):
         return a + b
 
-    def add(sprint(sentence)
-elf, a):  
+    def add(sprint(sentence)elf, a):  
         return a + 1
 class Calculator:
 calc = Calculator()
